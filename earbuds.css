@@ -89,6 +89,7 @@ ul {
     display: table; 
     margin: 0 auto;
     line-height: 30px;
+    text-align: left;
 }
 
 
