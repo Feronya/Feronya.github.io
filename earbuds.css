@@ -29,6 +29,7 @@ header h1{
 }
 
 header h1,h2,h3{
+	padding-bottom: 30px;
 	text-align: center;
 }
 
@@ -84,7 +85,7 @@ ul {
     text-align: center;
     display: table; 
     margin: 0 auto;
-    text-align: left;
+    line-height: 30px;
 }
 
 
