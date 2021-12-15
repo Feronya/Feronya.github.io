@@ -34,8 +34,9 @@ header h1,h2,h3{
 }
 
 header img {
-	border-radius: 400px;
-	width: 800px;
+	max-width: 100%;
+	border-radius: 200px;
+	width: 600px;
 }
 
 main {
@@ -81,12 +82,10 @@ footer a:hover{
 	opacity: .5;
 	background-color: transparent;
 }
-ul{
-  list-style-type: circle;
-  text-align: center;
-}
 ul {
     display: table; 
     margin: 0 auto;
     text-align: left;
 }
+
+
